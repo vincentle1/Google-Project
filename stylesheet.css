@@ -1,0 +1,19 @@
+
+header.left_links{
+    display: flex;
+    flex-direction: row;
+}
+
+div{
+    display: inline-block;
+    width: 80%;
+}
+header.right_links{
+    display: flex;
+    flex-direction: row;
+}
+
+.center{
+
+}
+
